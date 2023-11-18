@@ -1,6 +1,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/nerdonhub?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/nerdonhub?style=social"> &nbsp;&nbsp; <img alt="Count Views" src="https://komarev.com/ghpvc/?username=nerdonhub&style=flat" />
 
-<a><img src="/img/banner.png" width="100%" height="auto"/></a>
+<a><img src="github-header-image.png" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://twitter.com/nerdonhub"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
