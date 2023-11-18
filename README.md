@@ -18,18 +18,15 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
 <div>
 <details>
   <summary>🧑 More about me</summary>
+- 👯 Part of the [Hidroject Team](https://github.com/Hidroject) 🌱​
 
-- 🔭 Test!
+- 🔭 Currently working with **Spring framework**
 
-- 🌱 Test!
+- 📫 Email contact: **gabriel.mywork@proton.me**
 
-- 🤝 Test!
+- 👨‍💻 All of my projects are available at [https://...]() coming soon!
 
-- 👨‍💻 Test!
-
-- 💬 Test!
-
-- 📫 Test!
+- ⚡ Fun fact: **I'm always studying in my spare time!**
 
 </details>
   
