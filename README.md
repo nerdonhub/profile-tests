@@ -52,3 +52,28 @@ Passionate Java backend developer, I'm a self-taught enthusiast hungry for knowl
 <p align="left">
   <a href="https://github.com/nerdonhub?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
+
+```java
+import br.com.nerdonhub.SoftwarDeveloper;
+
+@Table(name = "bio")
+@Entity(name = "Bio")
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+public class Bio extends SoftwareDeveloper implements Backend {
+  SoftwareDeveloper nerdonhub = new SoftwareDeveloper();
+  nerdonhub.name('Gabriel Ricardo Santos Sousa');
+  nerdonhub.title('Backend Engineer');
+  nerdonhub.company('Hidroject');
+  nerdonhub.location('Itanhém, BA');
+}
+
+public class Skills extends SoftwareDeveloper implements Backend {
+  nerdonhub.languages('Java', 'Typescript', 'Cpp');
+  nerdonhub.databases('PostgreSQL', 'MySQL', 'SQLite');
+  nerdonhub.frameworks('Spring', 'Hibernate', 'JPA', 'JDBC', 'Adafruit DHT Sensors', 'Bootstrap');
+}
+
+System.out.println("Welcome to my profile, make yourself at home!")
+```
